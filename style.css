@@ -1,0 +1,71 @@
+body{
+    background: linear-gradient(yellow,violet);
+    font-family: 'roboto',sans-serif;
+    background-position: center;
+    align-items: center;
+    
+}
+.login{
+
+    text-align: center;
+
+}
+.box{
+    width: 2;
+    
+    
+}
+h1{
+    color: violet;
+}
+.signup{
+    
+    margin: 200px;
+    padding: 20px;
+    text-align: center;
+    width: 360px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid rgba(225,225, 225,2);
+    
+}
+form {
+    
+    margin-top: 40px;
+    font-size: 18px;
+    text-align: center;
+}
+form input{
+    border: none;
+    background-color: transparent;
+    border: 2px solid silver;
+    border-radius: 30px;
+    border: 2px solid white(255, 255, 255, .2);
+    margin: 10px;
+    padding: 8px;
+    width: 80%;
+    
+}
+.create{
+    
+    width: 300px;
+    
+    padding: 100px;
+}
+form input{
+    padding: 15px;
+    
+}
+.btn{
+    padding: 90px;
+    width: 90px;
+}
+button{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: rgb(250, 226, 131);
+}
